@@ -1,0 +1,1 @@
+!function(){"use strict";const e="speedsearch-body";document.addEventListener("DOMContentLoaded",(function(){document.body.setAttribute("id",e)})),speedsearch.hookAFuncAfterThePostsAddition((function(){speedsearch.themeIntegration_afterProductsFetch(e)}))}();

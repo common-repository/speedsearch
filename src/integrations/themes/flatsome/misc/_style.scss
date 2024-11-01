@@ -1,0 +1,5 @@
+// On mobile menu, allow speedsearch autocomplete to overflow.
+
+.mfp-wrap .mfp-container .mfp-content {
+  overflow: visible;
+}
